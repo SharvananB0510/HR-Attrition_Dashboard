@@ -1,4 +1,4 @@
-# HR Attrition Analysis Project
+# HR Attrition Analysis Dashboard
 
 I have obtained the project dataset from [Kaggle](https://www.kaggle.com/datasets/sunilhit120/ibm-hr-analytics-and-visualization).
 
